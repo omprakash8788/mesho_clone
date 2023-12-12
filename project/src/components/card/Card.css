@@ -1,0 +1,22 @@
+/* ProductCard.css */
+.product-card {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    height: 300px;
+    width: 20%;
+  }
+  
+  .product-card img {
+    max-width: 50%;
+    height: auto;
+  }
+  
+  /* ProductList.css */
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  

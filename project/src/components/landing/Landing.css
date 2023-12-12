@@ -1,0 +1,35 @@
+.hero-section {
+    background-image: url('https://img.lovepik.com/background/20211021/large/lovepik-blue-e-commerce-background-image_401460895.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px; /* Adjust the height based on your design */
+    color: #fff;
+    display: flex;
+    align-items: center;
+  }
+  
+  .hero-content {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+  }
+  
